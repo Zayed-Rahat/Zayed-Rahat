@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="Ahammed Zayed Uddin Rahat" |[linkedin] width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-<img align="left" alt="Ahammed Zayed Rahat" | [facebook] width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<a href="https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width="40" height="40"/> </a>
+<a href="https://www.facebook.com/rahat.5129" target="\_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" height="40"/> </a>
 
 <br />
 
