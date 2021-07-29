@@ -14,7 +14,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://zayed-rahat-webdev849.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ahammed Zayed Uddin Rahat | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="zayed_rahat | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facbook]
 
@@ -44,3 +43,4 @@
 [website]: https://zayed-rahat-webdev849.netlify.app
 [instagram]: https://www.instagram.com/zayed_rahat/?hl=en
 [linkedin]: https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0
+[facebook]: https://www.facebook.com/rahat.5129
