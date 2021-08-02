@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
+
 ### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat][website] 👋
 
 ## I'm a Frontend React Developder , MERN Stack Developer!!
@@ -12,9 +14,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watching football and cricket
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p> -->
 
 ### Connect with me:
 
