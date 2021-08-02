@@ -12,6 +12,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watching football and cricket
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat" alt="Zayed-Rahat" /></a> </p>
+
 ### Connect with me:
 
 <a href="https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width="40" height="40"/> </a>
