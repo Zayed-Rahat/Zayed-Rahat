@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
 
-### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat][website] 👋
+### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat][https://zayed-rahat-5129ndc.netlify.app] 👋
 
 ## I'm a Frontend React Developder , MERN Stack Developer!!
 
-- 👨‍💻 All of my projects are available at [https://zayed-rahat-webdev849.netlify.app](https://zayed-rahat-webdev849.netlify.app)
+- 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app](https://zayed-rahat-5129ndc.netlify.app)
 
 - 📫 How to reach me **azurahat129@gmail.com**
 
