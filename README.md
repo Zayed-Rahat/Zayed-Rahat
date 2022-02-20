@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
 
-### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat][https://zayed-rahat-5129ndc.netlify.app] 👋
+### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat][website] 👋
 
 ## I'm a Frontend React Developder , MERN Stack Developer!!
 
-- 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app](https://zayed-rahat-5129ndc.netlify.app)
+- 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app](website)
 
 - 📫 How to reach me **azurahat129@gmail.com**
 
@@ -57,7 +57,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" />
 
-[website]: https://zayed-rahat-webdev849.netlify.app
+[website]: https://zayed-rahat-5129ndc.netlify.app
 [instagram]: https://www.instagram.com/zayed_rahat/?hl=en
 [linkedin]: https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0
 [facebook]: https://www.facebook.com/rahat.5129
