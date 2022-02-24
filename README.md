@@ -4,7 +4,7 @@
 
 ## I'm a Frontend React Developder , MERN Stack Developer!!
 
-- 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app](website)
+- 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app/](website)
 
 - 📫 How to reach me **azurahat129@gmail.com**
 
