@@ -54,7 +54,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=azur-store-front&show_owner=true)](https://github.com/Zayed-Rahat/azur-store-front)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=azur-store-front&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=sorting-visualization&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" />
 
