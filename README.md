@@ -9,9 +9,8 @@
 - 📫 How to reach me **azurahat129@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E4udIOrG6Aw-t\_-qQ1y1WRr5dxgnUFDo/view?usp=sharing](https://drive.google.com/file/d/1E4udIOrG6Aw-t_-qQ1y1WRr5dxgnUFDo/view?usp=sharing)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything 
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watching football and cricket
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p> -->
