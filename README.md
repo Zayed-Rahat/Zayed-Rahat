@@ -9,7 +9,7 @@
 - 📫 How to reach me **azurahat129@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E4udIOrG6Aw-t\_-qQ1y1WRr5dxgnUFDo/view?usp=sharing](https://drive.google.com/file/d/1E4udIOrG6Aw-t_-qQ1y1WRr5dxgnUFDo/view?usp=sharing)
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Machine Learning & Blockchain 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and watching football and cricket
 
