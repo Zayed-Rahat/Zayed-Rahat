@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat] [website] 👋
 
-## I'm an MERN Stack Developer!!
+## I'm a MERN Stack Developer!!
 
 - 👨‍💻 All of my projects are available at [https://zayed-rahat-5129ndc.netlify.app/][website]
 
