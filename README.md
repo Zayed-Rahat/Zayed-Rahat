@@ -52,7 +52,7 @@
 </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=azur-store-front&show_owner=true)](https://github.com/Zayed-Rahat/cuet_hospital_system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=cuet_hospital_system&show_owner=true)](https://github.com/Zayed-Rahat/cuet_hospital_system)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=sorting-visualization&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
 
