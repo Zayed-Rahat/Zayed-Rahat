@@ -10,7 +10,7 @@
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1E4udIOrG6Aw-t\_-qQ1y1WRr5dxgnUFDo/view?usp=sharing](https://drive.google.com/file/d/1E4udIOrG6Aw-t_-qQ1y1WRr5dxgnUFDo/view?usp=sharing) -->
 - 🌱 I’m currently learning Machine Learning & Blockchain 
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: To learn more new Technology
 - ⚡ Fun fact: I love to play games and watching football and cricket
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p> -->
@@ -23,13 +23,13 @@
 ### Languages and Tools:
 
 <p align="left">
-<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="django" src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40" />          
+<img  alt="django" src="https://www.svgrepo.com/show/374016/python.svg" width="40" height="40" /> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -52,11 +52,11 @@
 </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=cuet_hospital_system&show_owner=true)](https://github.com/Zayed-Rahat/cuet_hospital_system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=ducsu-e-voting&show_owner=true)](https://github.com/Zayed-Rahat/ducsu-e-voting)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=sorting-visualization&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" /> -->
 
 [website]: https://zayed-rahat-5129ndc.netlify.app/
 [instagram]: https://www.instagram.com/zayed_rahat/?hl=en
