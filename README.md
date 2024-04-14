@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
 
-### Hi there, I'm Ahammed Zayed Uddin Rahat [Zayed-Rahat] [website] 👋
+### Hi there, I'm Ahammed Zayed Uddin Rahat [website] 👋
 
 ## I'm a Full Stack Developer!!
 
