@@ -10,8 +10,8 @@
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1E4udIOrG6Aw-t\_-qQ1y1WRr5dxgnUFDo/view?usp=sharing](https://drive.google.com/file/d/1E4udIOrG6Aw-t_-qQ1y1WRr5dxgnUFDo/view?usp=sharing) -->
 - 🌱 I’m currently learning Machine Learning & Blockchain 
-- 🥅 2024 Goals: To learn more new Technology
-- ⚡ Fun fact: I love to play games and watching football and cricket
+- 🥅 2024 Goals: To learn more new Technology and learning a new language.
+- ⚡ Fun fact: I love to play video games and playing football and cricket
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p> -->
 
@@ -52,9 +52,12 @@
 </a>
 </p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=pos-ims&show_owner=true)](https://github.com/Zayed-Rahat/pos-ims) 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=ducsu-e-voting&show_owner=true)](https://github.com/Zayed-Rahat/ducsu-e-voting)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=sorting-visualization&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
+
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" /> -->
 
