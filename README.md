@@ -2,7 +2,7 @@
 
 ### Hello, I'm Ahammed Zayed Uddin Rahat [website] 👋
 
-## I'm a Full Stack Developer!!
+## I'm a Software Engineer and Part-Time Lecturer!!
 
 - 📫 How to reach me: **zayedrahat088@gmail.com**
 - 🥅 2026 Goals: Expand knowledge in cutting-edge technology, improve communication skills.
