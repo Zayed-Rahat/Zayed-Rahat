@@ -5,14 +5,13 @@
 ## I'm a Full Stack Developer!!
 
 - 📫 How to reach me: **zayedrahat088@gmail.com**
-- 🌱 Currently learning Machine Learning & Blockchain.
-- 🥅 2024 Goals: Expand knowledge in cutting-edge technology, improve Japanese language skills.
+- 🥅 2026 Goals: Expand knowledge in cutting-edge technology, improve communication skills.
 - ⚡ Fun fact: I enjoy video games, football, and cricket. Traveling is my hobby.
 
 ### Why Hire Me?
 
 - 💻 **Global Perspective**: As a full stack developer with diverse experiences, I bring a global mindset to software development that focus on precision and innovation.
-- 🛠️ **Technical Expertise**: I am skilled in modern web frameworks like Django, React and Node.js while also capable of working with databases, APIs, and more.
+- 🛠️ **Technical Expertise**: I am skilled in modern web frameworks like SpringBoot, Flutter, Django, React and Node.js while also capable of working with databases, APIs, and more.
 - 🧠 **Continuous Learner**: I’m committed to expanding my technical and cultural knowledge, especially in fields like AI, ML, and Blockchain.
 
   
