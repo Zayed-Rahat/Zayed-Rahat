@@ -1,63 +1,138 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="Zayed-Rahat" /> </p>
+<div align="center">
 
-### Hello, I'm Ahammed Zayed Uddin Rahat [website] 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahammed%20Zayed%20Uddin%20Rahat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Part-Time%20Lecturer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=16"/>
 
-## I'm a Software Engineer and Part-Time Lecturer!!
-
-- 📫 How to reach me: **zayedrahat088@gmail.com**
-- 🥅 2026 Goals: Expand knowledge in cutting-edge technology, improve communication skills.
-- ⚡ Fun fact: I enjoy video games, football, and cricket. Traveling is my hobby.
-
-### Why Hire Me?
-
-- 💻 **Global Perspective**: As a full stack developer with diverse experiences, I bring a global mindset to software development that focus on precision and innovation.
-- 🛠️ **Technical Expertise**: I am skilled in modern web frameworks like SpringBoot, Flutter, Django, React and Node.js while also capable of working with databases, APIs, and more.
-- 🧠 **Continuous Learner**: I’m committed to expanding my technical and cultural knowledge, especially in fields like AI, ML, and Blockchain.
-
-  
-I am passionate about building applications that solve real-world problems and am continuously honing my skills in the latest technologies.
-
-### Connect with me:
-
-<a href="https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width="40" height="40"/> </a>
-<a href="https://www.facebook.com/rahat.5129" target="\_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" height="40"/> </a>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zayed-Rahat&theme=onedark" alt="Zayed-Rahat" /></a> </p> -->
-
-### Languages and Tools:
-
-<p align="left">
-<img  alt="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40" />          
-<img  alt="Python" src="https://www.svgrepo.com/show/374016/python.svg" width="40" height="40" /> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-
-</p>
-<br />
-<p align="left">
-  <a href="https://github.com/Zayed-Rahat"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zayed-Rahat&layout=compact&theme=radical" />
-</a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Zayed-Rahat&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Zayed-Rahat?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=pos-ims&show_owner=true)](https://github.com/Zayed-Rahat/pos-ims) 
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=ducsu-e-voting&show_owner=true)](https://github.com/Zayed-Rahat/ducsu-e-voting)
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&align=center&theme=radical&repo=sorting-visualization&show_owner=true)](https://github.com/Zayed-Rahat/sorting-visualization) 
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Zayed-Rahat&theme=synthwave&show_icons=true" alt="Zayed-Rahat" />
+```javascript
+const rahat = {
+  name: "Ahammed Zayed Uddin Rahat",
+  role: ["Software Engineer", "Part-Time Lecturer"],
+  location: "Bangladesh 🇧🇩",
+  email: "zayedrahat088@gmail.com",
+  website: "https://zayed-rahat-5129ndc.netlify.app/",
+  goals2026: ["Expand knowledge in cutting-edge tech", "Improve communication skills"],
+  interests: ["AI/ML", "Blockchain", "Full Stack Development"],
+  funFact: "I enjoy video games ⚽ football, cricket 🏏 & traveling ✈️"
+};
+```
 
-[website]: https://zayed-rahat-5129ndc.netlify.app/
-[instagram]: https://www.instagram.com/zayed_rahat/?hl=en
-[linkedin]: https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0
-[facebook]: https://www.facebook.com/rahat.5129
+---
+
+## 🚀 Why Hire Me?
+
+<table>
+<tr>
+<td>
+
+🌍 **Global Perspective**
+Full stack developer with a global mindset focused on precision and innovation
+
+</td>
+<td>
+
+🛠️ **Technical Expertise**
+Skilled in modern web frameworks — SpringBoot, Flutter, Django, React, NestJS, and more
+
+</td>
+<td>
+
+🧠 **Continuous Learner**
+Committed to expanding technical knowledge in AI, ML, and Blockchain
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayed-Rahat&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Zayed-Rahat/pos-ims">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=pos-ims&theme=tokyonight&show_owner=true" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Zayed-Rahat/ducsu-e-voting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=ducsu-e-voting&theme=tokyonight&show_owner=true" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Zayed-Rahat/sorting-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=sorting-visualization&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rahat.5129)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zayed-rahat-5129ndc.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayedrahat088@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
