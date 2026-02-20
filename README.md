@@ -106,21 +106,8 @@ Committed to expanding technical knowledge in AI, ML, and Blockchain
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayed-Rahat&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Zayed-Rahat/pos-ims">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=pos-ims&theme=tokyonight&show_owner=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Zayed-Rahat/ducsu-e-voting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=ducsu-e-voting&theme=tokyonight&show_owner=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Zayed-Rahat/sorting-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zayed-Rahat&repo=sorting-visualization&theme=tokyonight&show_owner=true" />
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zayed-Rahat&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
